@@ -1,4 +1,31 @@
-## Welcome to GitHub Pages
+## Animate UI Training
+
+El curso puede verse en este PPT compartido.
+https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit?usp=sharing
+
+En el repositorio pueden encontrarse los ejemplos, con los archivos editables
+
+### Ejercicio 1
+Clasic Tween, Easing, Squash & stretch
+
+![ball_loop](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/ball/ball_loop.gif)
+
+
+### Ejercicio 2
+Animaciones anidadas y mascaras
+
+![bell small](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/icon/bell_sm.gif)
+
+
+![bell big](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/icon/bell_lg.gif)
+
+### Ejercicio 3
+Puppet animation y Motion Tween
+
+![walking character](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/character/Character_puppet_walk.gif)
+
+
+![walking character](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/character/Character_puppet_walk4.gif)
 
 You can use the [editor on GitHub](https://github.com/ddalairac/animate-ui-training/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
