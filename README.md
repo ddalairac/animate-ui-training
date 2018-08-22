@@ -1,12 +1,21 @@
 ## Animate UI Training
 
+En el repositorio pueden encontrarse los ejemplos del curso de Animation UI
+
+<!-- 
 El curso puede verse en este PPT compartido.
+V: ISBAN
 https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit?usp=sharing
 
-En el repositorio pueden encontrarse los ejemplos, con los archivos editables
+V: Accenture
+https://docs.google.com/presentation/d/16ZzYOAyslJgIVTI_RroHVDUcr-YMADdo9QU437Mu4-E/edit#slide=id.g3d6ef760ef_0_14
+
+
+ -->
+
 
 ### Ejercicio 1
-Clasic Tween, Easing, Squash & stretch
+Classic Tween, Easing, Squash & stretch
 
 ![ball_loop](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/ball/ball_loop.gif)
 
