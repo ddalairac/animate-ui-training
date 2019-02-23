@@ -1,6 +1,6 @@
-## Animate UI Training
+## Animacion & UX 
 
-En el repositorio pueden encontrarse los ejemplos del curso de Animation UI
+En el repositorio pueden encontrarse los ejemplos del curso de Animation & UX 
 
 El curso puede verse en este PPT compartido.
 https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit#slide=id.g35f391192_09
