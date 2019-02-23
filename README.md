@@ -2,16 +2,12 @@
 
 En el repositorio pueden encontrarse los ejemplos del curso de Animation UI
 
-<!-- 
 El curso puede verse en este PPT compartido.
-V: ISBAN
-https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit?usp=sharing
-
+https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit#slide=id.g35f391192_09
+<!-- 
 V: Accenture
 https://docs.google.com/presentation/d/16ZzYOAyslJgIVTI_RroHVDUcr-YMADdo9QU437Mu4-E/edit#slide=id.g3d6ef760ef_0_14
-
-
- -->
+-->
 
 
 ### Ejercicio 1
