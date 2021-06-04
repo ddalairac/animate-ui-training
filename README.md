@@ -1,6 +1,6 @@
-## Animacion & UX 
+# Animacion & UX Training
 
-En el repositorio pueden encontrarse los ejemplos del curso de Animation & UX 
+En el repositorio pueden encontrarse los ejemplos del curso de Animation & UX <br>
 
 El curso puede verse en este PPT compartido.
 https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit#slide=id.g35f391192_09
@@ -9,6 +9,11 @@ V: Accenture
 https://docs.google.com/presentation/d/16ZzYOAyslJgIVTI_RroHVDUcr-YMADdo9QU437Mu4-E/edit#slide=id.g3d6ef760ef_0_14
 -->
 
+### Nota
+Los ejemplos estac creados con AnimateCC de Adobe
+https://github.com/ddalairac/training-css-animation
+
+## Ejercicios
 
 ### Ejercicio 1
 Classic Tween, Easing, Squash & stretch
