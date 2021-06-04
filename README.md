@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/16ZzYOAyslJgIVTI_RroHVDUcr-YMADdo9QU437Mu
 -->
 
 ### Nota
-Los ejemplos estac creados con AnimateCC de Adobe
+Los ejemplos estac creados con AnimateCC de Adobe. Pueden verse ejemplos de animacion solo CSS en este repo. <br>
 https://github.com/ddalairac/training-css-animation
 
 ## Ejercicios
