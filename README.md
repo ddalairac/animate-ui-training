@@ -2,7 +2,7 @@
 
 En el repositorio pueden encontrarse los ejemplos del curso de Animation & UX <br>
 
-El curso puede verse en este PPT compartido.
+La presentacion del curso puede verse en este PPT compartido.
 https://docs.google.com/presentation/d/1Qn_5D2m9k8rfkBHL0gGFu5GZMemL4pzDNVqdyzreRtc/edit#slide=id.g35f391192_09
 <!-- 
 V: Accenture
